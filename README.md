@@ -29,7 +29,7 @@ JavaScript (ES6+): Vanilla JS for logic, calculations, and local storage managem
 Clone the Repository:
 
 Bash
-git clone https://github.com/your-username/ecommerce-software.git
+git clone [https://github.com/your-username/ecommerce-software.git](https://github.com/ChaithanyaSakamuri/E-Commerce-Billing-Software)
 Open the Project: Simply open the index.html file in any modern web browser (Chrome, Firefox, Safari, Edge).
 
 Generate a Bill:
@@ -60,4 +60,4 @@ Distributed under the MIT License. See LICENSE for more information.
 🤝 Contact
 Project Link: https://ecommerce.software
 
-Developer: [Your Name/GitHub Profile]
+Developer: chaithanya sudheer sakamuri
